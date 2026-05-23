@@ -1,1 +1,1 @@
-# stokunov_restaurant-app-master
+# Выполнил: Стокунов Никита ПР-24.102
